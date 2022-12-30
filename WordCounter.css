@@ -1,0 +1,15 @@
+h2{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+}
+textarea{
+    width: 98.5vw;
+    border-color: black;
+}
+p{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    font-size: x-large;
+}
